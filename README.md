@@ -7,8 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I’m currently learning **Angularjs, Flutter,VHDL, Image Processing**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Tito-DM](https://github.com/Tito-DM)
+
+- 📫 How to reach me **muandatito@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/tito muanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tito muanda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
